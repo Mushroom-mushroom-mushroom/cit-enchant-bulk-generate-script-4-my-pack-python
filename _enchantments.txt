@@ -1,0 +1,57 @@
+#format: "<namespace> <enchant_name> <max_level> <weight(optional)>"
+#Lines starting with "#" will be ignored.
+#Empty lines will be ignored.
+
+#格式："<命名空间> <魔咒ID> <最高等级> <权重（可选）>"
+#以"#"开头的行会被忽略
+#空行也会被忽略
+
+minecraft aqua_affinity 1
+minecraft bane_of_arthropods 5
+minecraft blast_protection 4
+minecraft breach 4
+minecraft channeling 1
+minecraft binding_curse 1 3
+minecraft vanishing_curse 1 3
+minecraft density 5
+minecraft depth_strider 3
+minecraft efficiency 5
+minecraft feather_falling 4
+minecraft fire_aspect 2
+minecraft fire_protection 4
+minecraft flame 1
+minecraft fortune 3
+minecraft frost_walker 2
+minecraft impaling 5
+minecraft infinity 1
+minecraft knockback 2
+minecraft looting 3
+minecraft loyalty 3
+minecraft luck_of_the_sea 3
+minecraft lure 3
+minecraft mending 1 2
+minecraft multishot 1
+minecraft piercing 4
+minecraft power 5
+minecraft projectile_protection 4
+minecraft protection 4
+minecraft punch 2
+minecraft quick_charge 3
+minecraft respiration 3
+minecraft riptide 3
+minecraft sharpness 5
+minecraft silk_touch 1
+minecraft smite 5
+minecraft soul_speed 3
+#minecraft sweeping 3
+minecraft sweeping_edge 3
+minecraft swift_sneak 3
+minecraft thorns 3
+minecraft unbreaking 3 1
+minecraft wind_burst 3
+minecraft cleaving 3
+
+farmersdelight backstabbing 3
+
+create capacity 3
+create potato_recovery 3

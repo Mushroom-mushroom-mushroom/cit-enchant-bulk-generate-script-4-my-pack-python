@@ -1,0 +1,3 @@
+minecraft:enchanted_book
+create_enchantment_industry:enchanting_template
+create_enchantment_industry:super_enchanting_template
